@@ -1,4 +1,4 @@
-# Snooj-s-Prototype
+# Snoojs-Prototype
 A functioning Discord Bot running on Python
 
 NOTE! -> TOKEN, UserIDs, and ChannelIDs are kept in a separate environment file for safety.
